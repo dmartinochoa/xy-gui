@@ -13,3 +13,13 @@
 /.idea/sonarlint/securityhotspotstore/index.pb
 /.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 /.idea/sonarlint/issuestore/a/3/a369dd4e6866ff099535d99645e0909da093e01d
+/results/codetamper.scan.json
+/results/compliance.scan.json
+/results/deps.scan.json
+/results/iac.scan.json
+/results/inventory.scan.json
+/results/misconf.scan.json
+/results/secrets.scan.json
+/results/suspectdeps.scan.json
+/logs/default/scan_default.log
+/logs/noproject/noscan_noproject.log
